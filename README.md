@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1883&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1883" /> </p>
 
-- 🌱 I’m currently learning **Django,Tailwind,Tkinter**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **himanshudubeuhd@gmail.com**
 
