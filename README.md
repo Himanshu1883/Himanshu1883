@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dubey</h1>
 <h3 align="center">Passionate about coding, problem-solving, and learning new technologies. Exploring the world of web development, APIs, databases, and cloud solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu1883&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu1883" /> </p>
+
 
 - 🌱 I’m currently learning **Django**
 
