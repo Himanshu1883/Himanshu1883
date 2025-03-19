@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Dubey</h1>
 <h3 align="center">Passionate about coding, problem-solving, and learning new technologies. Exploring the world of web development, APIs, databases, and cloud solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshu1883" alt="himanshu1883" /></a> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **himanshudubeuhd@gmail.com**
