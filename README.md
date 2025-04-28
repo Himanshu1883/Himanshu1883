@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu Dubey</h1>
+
 <h3 align="center">Passionate about coding, problem-solving, and learning new technologies. Exploring the world of web development, APIs, databases, and cloud solutions.</h3>
 
 - 🌱 I’m currently learning **Django**
