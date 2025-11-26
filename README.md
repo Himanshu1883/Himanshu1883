@@ -1,75 +1,46 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm <strong>Himanshu Dubey</strong>
-</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Dubey</h1>
+<h3 align="center">Full-Stack Developer | Python | Django | React | Automation Enthusiast</h3>
 
-<h3 align="center">🚀 Full-Stack Developer | Python | Django | React | Automation Specialist</h3>
+<p align="center">
+🚀 Passionate about coding, problem-solving, and continuous learning.  
+I build full-stack web applications and love automating workflows using Selenium and Playwright.
+</p>
 
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/himanshu1883?style=social&label=Follow)
-![GitHub User's stars](https://img.shields.io/github/stars/himanshu1883?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=himanshu1883&color=blueviolet&label=Profile+Views)
-
-</div>
+- 🌱 I’m currently exploring **Cloud & DevOps (AWS, Docker, CI/CD)**
+- 💻 Skilled in **Python | Django | React | Tailwind | MySQL | REST APIs**
+- 🤖 Experienced with **Automation Tools:** Selenium & Playwright  
+- 📫 Reach me at **himanshudubeuhd@gmail.com**
 
 ---
 
-## 👨‍💻 About Me
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/himanshu-dubey-06683b2a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Himanshu Dubey" height="30" width="40" />
+</a>
+</p>
 
-I'm a passionate Full-Stack Developer who loves turning complex problems into simple, beautiful solutions.
+---
 
-```python
-class HimanshuDubey:
-    def __init__(self):
-        self.name = "Himanshu Dubey"
-        self.role = "Full-Stack Developer"
-        self.code = ["Python", "JavaScript", "SQL"]
-        self.tech_stack = {
-            "backend": ["Django", "Node.js", "REST APIs"],
-            "frontend": ["React", "HTML5", "CSS3", "Tailwind"],
-            "tools": ["Git", "Docker", "Selenium", "Playwright"],
-            "databases": ["MySQL", "PostgreSQL", "SQLite"]
-        }
-        self.current_focus = "Cloud & DevOps (AWS, Docker, CI/CD)"
-        self.fun_fact = "I automate everything I can! 🤖"
-    
-    def say_hi(self):
-        return "Let's build something amazing together! 🚀"
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
 
-me = HimanshuDubey()
-print(me.say_hi())
-💻 Programming Languages
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
-⚡ Frameworks & Libraries
-<p> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> </p>
-🗄️ Databases & Cloud
-<p> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> </p>
-🔧 Tools & Platforms
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
-📊 GitHub Stats
-<div align="center"> <!-- Stats --> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=himanshu1883&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> <!-- Top Langs --> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=himanshu1883&layout=compact&theme=radical&hide_border=true" /> <!-- Streak --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1883&theme=radical&hide_border=true" /> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu1883&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" /> </div>
-🎯 Currently Working On
+---
 
-🔭 Full-Stack Applications with Django & React
+<h3 align="left">📊 GitHub Stats:</h3>
 
-🤖 Web Automation using Selenium & Playwright
-
-☁️ Learning AWS & DevOps
-
-🐳 Exploring Docker & Containerization
-
-💡 Contributing to Open Source
-
-📫 Connect With Me
-<div align="center"> <a href="https://www.linkedin.com/in/himanshu-dubey-06683b2a7"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:himanshudubeuhd@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/himanshu1883"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
-💡 Quote of the Day
-<div align="center"> <b>"The only way to learn a new programming language is by writing programs in it."</b> — Dennis Ritchie </div>
-<div align="center">
-
-🐍 Contribution Snake
-<img src="https://github.com/himanshu1883/himanshu1883/blob/output/github-contribution-grid-snake.svg" />
-
-⭐ Thanks for visiting my profile! 😄
-
-</div> ```
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu1883&show_icons=true&locale=en&layout=compact" alt="himanshu1883" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu1883&show_icons=true&locale=en" alt="himanshu1883" /></p>
