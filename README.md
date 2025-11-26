@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hi, I'm <strong>Himanshu Dubey</strong>
 </h1>
 
@@ -17,8 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full-Stack Developer who loves turning complex problems into simple, beautiful solutions.  
-When I'm not coding, I explore new technologies, contribute to open source, and automate workflows.
+I'm a passionate Full-Stack Developer who loves turning complex problems into simple, beautiful solutions.
 
 ```python
 class HimanshuDubey:
@@ -34,13 +33,12 @@ class HimanshuDubey:
         }
         self.current_focus = "Cloud & DevOps (AWS, Docker, CI/CD)"
         self.fun_fact = "I automate everything I can! 🤖"
-
+    
     def say_hi(self):
         return "Let's build something amazing together! 🚀"
 
 me = HimanshuDubey()
 print(me.say_hi())
-🛠️ Tech Stack
 💻 Programming Languages
 <p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
 ⚡ Frameworks & Libraries
@@ -50,28 +48,28 @@ print(me.say_hi())
 🔧 Tools & Platforms
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
 📊 GitHub Stats
-<div align="center"> <!-- Stats Cards --> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=himanshu1883&show_icons=true&theme=radical&hide_border=true" /> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=himanshu1883&layout=compact&theme=radical&hide_border=true" /> <!-- Streak Stats --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1883&theme=radical&hide_border=true" /> <!-- Contribution Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu1883&theme=react-dark&hide_border=true&area=true" /> </div>
+<div align="center"> <!-- Stats --> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=himanshu1883&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" /> <!-- Top Langs --> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=himanshu1883&layout=compact&theme=radical&hide_border=true" /> <!-- Streak --> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu1883&theme=radical&hide_border=true" /> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu1883&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" /> </div>
 🎯 Currently Working On
-🔭 Full-Stack Applications (Django + React)
 
-🤖 Automation Scripts (Selenium & Playwright)
+🔭 Full-Stack Applications with Django & React
 
-☁️ AWS & DevOps Tools
+🤖 Web Automation using Selenium & Playwright
 
-🐳 Docker & Containerization
+☁️ Learning AWS & DevOps
 
-💡 Open Source Contributions
+🐳 Exploring Docker & Containerization
+
+💡 Contributing to Open Source
 
 📫 Connect With Me
-<div align="center">
-
-
-
-
-</div>
+<div align="center"> <a href="https://www.linkedin.com/in/himanshu-dubey-06683b2a7"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:himanshudubeuhd@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/himanshu1883"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
 💡 Quote of the Day
-<div align="center"> <b>"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie</b> </div>
+<div align="center"> <b>"The only way to learn a new programming language is by writing programs in it."</b> — Dennis Ritchie </div>
 <div align="center">
-⭐️ Thanks for visiting my profile! Have a great day! 😄
 
-<!-- Snake Animation --> <img src="https://github.com/himanshu1883/himanshu1883/blob/output/github-contribution-grid-snake.svg" /> </div> ```
+🐍 Contribution Snake
+<img src="https://github.com/himanshu1883/himanshu1883/blob/output/github-contribution-grid-snake.svg" />
+
+⭐ Thanks for visiting my profile! 😄
+
+</div> ```
