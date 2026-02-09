@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | Python | Django | React | Automation Enthusiast
+Full-Stack Developer | Python | Django | React | Automation | Web Crawler | Web Scraper | 
 
 
 ## 🌐 Socials:
